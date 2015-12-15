@@ -4,9 +4,7 @@ The Samu project build in java.
 /*
  * @brief SAMU - the potential ancestor of developmental robotics chatter bots
  *
- * @file main.hpp
  * @author  Norbert Bátfai <nbatfai@gmail.com>
- * @version 0.0.1
  *
  * @section LICENSE
  *
